@@ -20,8 +20,8 @@ This project is a RESTful API for a dynamic knowledge base system, built using *
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/knowledge-base-system.git
-   cd knowledge-base-system
+   git clone https://github.com/your-username/knowledge-base-api.git
+   cd knowledge-base-api
    ```
 
 2. Install dependencies:
